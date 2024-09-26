@@ -2,7 +2,7 @@
 
 Meu nome é Victor
 
--Estudante do Alura
+- Estudante do Alura
 
 Você pode entrar em contato comigo 📫
 
